@@ -25,7 +25,7 @@
 
 ## Page 14
 
-<img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/3_sky_cloud_sun.jpg">
+<img src="https://raw.githubusercontent.com/elbachir-one/aesthetic-wallpapers/main/images/3_sky_cloud_sun.jpg">
 
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/LoFi_wall.png">
 
